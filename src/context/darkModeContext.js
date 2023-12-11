@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from "react";
 
-//alo
+//alo mundo
 
 export const DarkModeContext = createContext();
 
